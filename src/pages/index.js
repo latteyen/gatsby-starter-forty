@@ -31,22 +31,22 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Web Design Specialists</h3>
-                                <p>Beautiful websites designed for the user and search engine.</p>
+                                <h3>Website Design</h3>
+                                <p>We build beautiful websites</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
                                 <h3>Landing Pages</h3>
-                                <p>Customized HTML landing pages</p>
+                                <p>We build landing pages</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
                                 <h3>Hotel Marketing</h3>
-                                <p>Results driven paid search campaigns</p>
+                                <p>We run search campaigns</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
@@ -66,8 +66,8 @@ class HomeIndex extends React.Component {
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
-                                <h3>Property Management System</h3>
-                                <p>Cloud Hotel System</p>
+                                <h3>Hotel PMS</h3>
+                                <p>We provide hotel systems</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
