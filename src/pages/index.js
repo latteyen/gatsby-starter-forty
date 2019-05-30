@@ -17,10 +17,10 @@ class HomeIndex extends React.Component {
         return (
             <Layout>
                 <Helmet
-                    title="Gatsby Starter - Forty"
+                    title="Hotel Website Design Agency in Bangkok | Chiang Mai "
                     meta={[
-                        { name: 'description', content: 'Sample' },
-                        { name: 'keywords', content: 'sample, something' },
+                        { name: 'description', content: 'Website design agency in Bangkok and Chiang Mai. We build responsive, SEO friendly webpages to drive traffic from the search engine to your inbox.' },
+                        { name: 'keywords', content: 'hotel website design in Thailand, Bangkok website design, chiangmai website design agency' },
                     ]}
                 >
                 </Helmet>
@@ -31,43 +31,43 @@ class HomeIndex extends React.Component {
                     <section id="one" className="tiles">
                         <article style={{backgroundImage: `url(${pic01})`}}>
                             <header className="major">
-                                <h3>Rooms</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>Web Design Specialists</h3>
+                                <p>Beautiful websites designed for the user and search engine.</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic02})`}}>
                             <header className="major">
-                                <h3>Restaurant</h3>
-                                <p>feugiat amet tempus</p>
+                                <h3>Landing Pages</h3>
+                                <p>Customized HTML landing pages</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic03})`}}>
                             <header className="major">
-                                <h3>Spa</h3>
-                                <p>Lorem etiam nullam</p>
+                                <h3>Hotel Marketing</h3>
+                                <p>Results driven paid search campaigns</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic04})`}}>
                             <header className="major">
-                                <h3>Location</h3>
-                                <p>Nisl sed aliquam</p>
+                                <h3>Web Maintenance</h3>
+                                <p>SSL hosting and page updates</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic05})`}}>
                             <header className="major">
-                                <h3>Facilities</h3>
-                                <p>Ipsum dolor sit amet</p>
+                                <h3>Hotel Software</h3>
+                                <p>Booking Engine & Channel Manager</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
                         <article style={{backgroundImage: `url(${pic06})`}}>
                             <header className="major">
-                                <h3>Promotions</h3>
-                                <p>Feugiat amet tempus</p>
+                                <h3>Property Management System</h3>
+                                <p>Cloud Hotel System</p>
                             </header>
                             <Link to="/landing" className="link primary"></Link>
                         </article>
@@ -75,9 +75,9 @@ class HomeIndex extends React.Component {
                     <section id="two">
                         <div className="inner">
                             <header className="major">
-                                <h2>Book Now</h2>
+                                <h2>Beautiful Website Designs</h2>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+                            <p>We are a full service website design agency based in Bangkok and Chiang Mai. We build dynamic webpages which compliment your digital strategy and offer digital ROI.</p>
                             <ul className="actions">
                                 <li><Link to="/landing" className="button next">Get Started</Link></li>
                             </ul>
