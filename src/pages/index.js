@@ -19,7 +19,7 @@ class HomeIndex extends React.Component {
                 <Helmet
                     title="Hotel Website Design Agency in Bangkok | Chiang Mai "
                     meta={[
-                        { name: 'description', content: 'Website design agency in Bangkok and Chiang Mai. We build responsive, SEO friendly webpages to drive traffic from the search engine to your inbox.' },
+                        { name: 'description', content: 'Hotel Website design agency in Bangkok and Chiang Mai. We build responsive, SEO friendly webpages to drive traffic from the search engine to your inbox.' },
                         { name: 'keywords', content: 'hotel website design in Thailand, Bangkok website design, chiangmai website design agency' },
                     ]}
                 >
