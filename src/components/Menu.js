@@ -7,7 +7,7 @@ const Menu = (props) => (
         <div className="inner">
             <ul className="links">
                 <li><Link onClick={props.onToggleMenu} to="/">Home</Link></li>
-                <li><Link onClick={props.onToggleMenu} to="/website-design">Website Design</Link></li>
+                <li><Link onClick={props.onToggleMenu} to="/websitedesign">Website Design</Link></li>
                 <li><Link onClick={props.onToggleMenu} to="/generic">Hotel System</Link></li>
                 <li><Link onClick={props.onToggleMenu} to="/elements">Google Ads</Link></li>
                 <li><Link onClick={props.onToggleMenu} to="/restaurant">Website Maintenance</Link></li>
